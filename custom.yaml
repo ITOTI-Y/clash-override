@@ -1,0 +1,6 @@
+# https://mihomo.party/docs/guide/override/yaml
+
++rules:
+  - "PROCESS-NAME,Rhino.exe,REJECT"
+  - "PROCESS-NAME,tailscaled.exe,DIRECT"
+  - "DOMAIN-SUFFIX,duckcoding.com,DIRECT"
