@@ -3,4 +3,4 @@
 +rules:
   - "PROCESS-NAME,Rhino.exe,REJECT"
   - "PROCESS-NAME,tailscaled.exe,DIRECT"
-  - "DOMAIN-SUFFIX,duckcoding.com,DIRECT"
+  - "DOMAIN-SUFFIX,jp.duckcoding.com,DIRECT"
